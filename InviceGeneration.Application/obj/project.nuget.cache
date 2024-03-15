@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "otSo5ogywIYiwh3FKttr95I7iBQOqFA/NHyM6pj84v6psJ8J6f5GrheU9ohe1Oh9UJ1zeE/Ezshd6V58QzSYZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samwel.kilala\\Desktop\\C#-CQRS\\ASP.NET-USING-DAPPER\\InviceGeneration.API\\ASP.NET_DAPPER\\InviceGeneration.Application\\InviceGeneration.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samwel.kilala\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\samwel.kilala\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\samwel.kilala\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
